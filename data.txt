@@ -2,10 +2,10 @@
   "version": 0.1,
   "images": 5,
   "data": [
-	["TakuTako",".png"],
-	["Melon",".jpg"],
-	["Hololive",".jpg"],
-	["Okayu",".jpg"],
-	["Mumei",".jpg"]
+	{"name": "TakuTako", "ext": "0.png"},
+	{"name": "Melon", "ext": "1.jpg"},
+	{"name": "Hololive", "ext": "2.jpg"},
+	{"name": "Okayu", "ext": "3.jpg"},
+	{"name": "Mumei", "ext": "4.jpg"}
   ]
 }
