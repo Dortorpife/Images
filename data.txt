@@ -1,10 +1,11 @@
 {
   "version": 0.1,
-  "images": 4,
+  "images": 5,
   "data": [
-	["Melon"],
-	["Hololive"],
-	["Okayu"],
-	["Mumei"]
+	["TakuTako",".png"]
+	["Melon",".jpg"],
+	["Hololive",".jpg"],
+	["Okayu",".jpg"],
+	["Mumei",".jpg"]
   ]
 }
