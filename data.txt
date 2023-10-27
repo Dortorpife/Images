@@ -6,6 +6,6 @@
 	{"name": "Melon", "ext": "1.jpg"},
 	{"name": "Hololive", "ext": "2.jpg"},
 	{"name": "Okayu", "ext": "3.jpg"},
-	{"name": "Mumei", "ext": "4.jpg"}
+	{"name": "Mumei", "ext": "hi.jpg"}
   ]
 }
