@@ -2,7 +2,7 @@
   "version": 0.1,
   "images": 5,
   "data": [
-	["TakuTako",".png"]
+	["TakuTako",".png"],
 	["Melon",".jpg"],
 	["Hololive",".jpg"],
 	["Okayu",".jpg"],
